@@ -1,0 +1,11 @@
+{
+    "id": "sts2mattimod",
+    "name": "sts2mattimod",
+    "author": "zombyfo",
+    "description": "sts2mattimod",
+    "version": "1.0",
+    "has_pck": true,       
+    "has_dll": true,      
+    "dependencies": ["BaseLib"],   
+    "affects_gameplay": true 
+  }
